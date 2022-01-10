@@ -14,7 +14,7 @@ The output after applying the Grouping and aggregation are available in 4 files:
 5. `Output.txt` - Aggregated output with minimum, maximum and average prices for each group in *.txt* format.
 
 ### Submitted By:
-* **Lakshmi V Aji (20BDA09)
-* **Josmi Agnes Jose (20BDA27)
-* **Aishwarya Nair M J (20BDA42)
-* **Mariya Biju (20BDA61)
+* **Lakshmi V Aji (20BDA09)**
+* **Josmi Agnes Jose (20BDA27)**
+* **Aishwarya Nair M J (20BDA42)**
+* **Mariya Biju (20BDA61)**
