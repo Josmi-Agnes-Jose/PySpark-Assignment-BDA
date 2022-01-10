@@ -10,4 +10,5 @@ The output after applying the Grouping and aggregation are available in 4 files:
 1. `min.csv` - Aggregated by minimum house price for each group.
 2. `max.csv` - Aggregated by maximum house price for each group.
 3. `average.csv` -Aggregated by average house price for each group.
-4. `combined.csv` - Aggregated output eith minimum, maximum and average prices for each group.
+4. `combined.csv` - Aggregated output with minimum, maximum and average prices for each group.
+5. `Output.txt` - Aggregated output with minimum, maximum and average prices for each group in *.txt* format.
