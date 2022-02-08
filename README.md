@@ -1,5 +1,10 @@
 # PySpark-Assignment-BDA
 
+### part -1 (Demonstrate the spark streaming)
+The folder named `Streaming` contains the pyspark code (`Word Count.ipynb`) for a simple word count program qhich recieves input from a terminal.
+The screenshots depicting the process and output is combined into a pdf in `Screenshots.pdf` file.
+
+### Part -2 (ETL using Pyspark)
 The dataset used in this assignment is uploaded here with the names `2018-05-12_154616.csv, 2018-05-12_155104.csv, 2018-05-12_155435.csv`.
 <br>
 
